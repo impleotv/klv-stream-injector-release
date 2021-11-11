@@ -1,8 +1,7 @@
 name: OnPushNewVersion
 
 on:
-  push:
-    branches: [ master ]  
+  push:    
     tags:
       - 'v*'
 
