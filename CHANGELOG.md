@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 3.8.10 (23/11/21)
+- Update low level
+- Add time restricted license support
+- Move to vc142
+
 ### Ver. 1.8.9.2 (11/11/21)
 - Update VS runtime to v142
 
