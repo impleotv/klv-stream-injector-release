@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.8.12 (01/02/22)
+- Update remuxer
+
 ### Ver. 1.8.11 (19/12/21)
 - Update low level
 
