@@ -23,7 +23,7 @@ Unzip the **SetupKlvStreamInjector.zip** file and run the **SetupKlvStreamInject
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **STANAG KlvStreamInjector** |  v1.9.1 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
 
-*Released on Sun, 17 Jul, 16:59 GMT+3*
+*Released on Sun, 17 Jul, 17:19 GMT+3*
 
 ## License
 
