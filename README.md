@@ -14,16 +14,16 @@ OS: Windows 10 64 bit.
 
 ## Installation
 
-**KlvStreamInjector** can be downloaded as a **zip** file that contains installer.  
+**KlvStreamInjector** can be downloaded as a **zip** file that contains the installer.  
 Unzip the **SetupKlvStreamInjector.zip** file and run the **SetupKlvStreamInjector.exe**  
 
 ## Download link
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG KlvStreamInjector** |  v1.8.12 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
+| **STANAG KlvStreamInjector** |  v | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
 
-*Released on Tue, 1 Feb, 13:44 GMT+2*
+*Released on Sun, 17 Jul, 16:56 GMT+3*
 
 ## License
 

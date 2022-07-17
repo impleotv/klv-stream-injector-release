@@ -1,12 +1,6 @@
 Change Log
 ==========
 
-### Ver. 1.9.1 (17/07/22)
-- Update low level
-- New Node info support
-- Set Klv PID without default packet when REST interface is operational
-- Help now generated with mkdocs
-
 ### Ver. 1.8.12 (01/02/22)
 - Update remuxer
 
