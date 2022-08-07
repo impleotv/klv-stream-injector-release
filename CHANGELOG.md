@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.9.2 (07/08/22)
+- Add tags 115, 116, 121, 128
+- Update low level
+
 ### Ver. 1.9.1 (17/07/22)
 - Update low level
 - New Node info support
