@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 1.9.5 (03/04/23)
+- Update Low level
+- Fix Metadata_AU_cell () in KlvSource filter. Applicable to SYNC_KLV use case
 
 ### Ver. 1.9.4 (14/08/22)
 - Update MisbCore (fix VMTI target id)
