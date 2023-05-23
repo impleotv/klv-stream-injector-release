@@ -1,5 +1,8 @@
 Change Log
 ==========
+### Ver. 3.10.0 (23/05/23)
+- Low level update. FFmpeg version change
+
 ### Ver. 1.9.5 (03/04/23)
 - Update Low level
 - Fix Metadata_AU_cell () in KlvSource filter. Applicable to SYNC_KLV use case
