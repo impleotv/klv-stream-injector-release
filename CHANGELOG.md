@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 1.11.1 (22/02/24)
+- Update low level
+- Add option for async callback of sync frames
+- Modify StCore interface
 
 ### Ver. 1.10.15 (29/01/24)
 - Update low level
