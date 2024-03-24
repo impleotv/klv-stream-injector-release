@@ -1,5 +1,18 @@
 Change Log
 ==========
+
+### Ver. 1.11.5 (24/03/24)
+- Update MisbCore
+	- Remove length from VMTI Location (tag 17)
+	- Remove length from VMTI Velocity and Acceleration DLP 
+- Improving the playback smoothness in D3d rendering
+- DirectX mode playback improvements.
+- Generic Flag Data (tag47) Versions 13 through 16 of ST 0601 unintentionally inverted the column definitions; 
+Low level changes:
+- Add support for EVR renderer
+- Add debug monitoring points for D3D9 Renderer
+- Add an ini patch to disable footer search
+
 ### Ver. 1.11.1 (22/02/24)
 - Update low level
 - Add option for async callback of sync frames
