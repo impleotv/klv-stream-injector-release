@@ -1,6 +1,18 @@
 Change Log
 ==========
 
+### Ver. 2.0.0 (6/05/24)
+- Add JWT license
+
+### Ver. 1.13.0 (30/04/24)
+- Move to .Net 4.7.2
+
+### Ver. 1.12.0 (26/03/24)
+- Modify NodeInfo format
+Low level:
+- Improving performance in D3d rendering
+- Fixing VideoOverlayMixer in handling I420 pixel format
+
 ### Ver. 1.11.5 (24/03/24)
 - Update MisbCore
 	- Remove length from VMTI Location (tag 17)

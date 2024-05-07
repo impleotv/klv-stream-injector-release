@@ -21,9 +21,9 @@ Unzip the **SetupKlvStreamInjector.zip** file and run the **SetupKlvStreamInject
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG KlvStreamInjector** |  v1.11.5 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
+| **STANAG KlvStreamInjector** |  v2.0.0 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
 
-*Released on Sun, 24 Mar, 10:47 GMT+2*
+*Released on Tue, 7 May, 17:00 GMT+3*
 
 ## License
 
@@ -40,9 +40,14 @@ C:\Program Files\ImpleoTV\KlvStreamInjector\Bin\x64\KlvStreamInjectorProc.exe
 
 Please copy-paste *Node Info*, don't send an image...
 
-You'll get back a **license** file and a **key**.
+You'll receive a license file (or both a license file and a key for legacy licensing mechanism) that can be utilized in the Activate method.
 
-Use *--licenseFile* and *--licenseKey* as arguments, for example:
+Use *--licenseFile* for example:
+```
+ --licenseFile "D:\Licenses\KlvStreamInjector.lic" 
+```
+
+Or, for legacy versions,  *--licenseFile* and *--licenseKey* as arguments, for example:
 ```
  --licenseFile "D:\Licenses\KlvStreamInjector.lic"  --licenseKey DDD8460B-8419FF85-0B36C1B5-3FC6143C
 ```
