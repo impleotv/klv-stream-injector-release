@@ -40,7 +40,7 @@ C:\Program Files\ImpleoTV\KlvStreamInjector\Bin\x64\KlvStreamInjectorProc.exe
 
 Please copy-paste *Node Info*, don't send an image...
 
-You'll receive a license file (or both a license file and a key for legacy licensing mechanism) that can be utilized in the Activate method.
+You'll receive a license file (or both a license file and a key for legacy licensing mechanism) that can be passed as arguments:
 
 Use *--licenseFile* for example:
 ```
