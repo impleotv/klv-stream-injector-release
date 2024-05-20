@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 2.0.5 (19/05/24)
+- low level 
+	- Complete support for pull demux with MPEG-PROGRAM input
+	- Complete fix for IIS crash
+
 ### Ver. 2.0.0 (6/05/24)
 - Add JWT license
 

@@ -21,9 +21,9 @@ Unzip the **SetupKlvStreamInjector.zip** file and run the **SetupKlvStreamInject
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG KlvStreamInjector** |  v2.0.0 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
+| **STANAG KlvStreamInjector** |  v2.0.5 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
 
-*Released on Tue, 7 May, 17:00 GMT+3*
+*Released on Mon, 20 May, 11:45 GMT+3*
 
 ## License
 
