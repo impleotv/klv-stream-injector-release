@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 2.1.0 (12/08/24)
+- low level modifications
+- MisbCore VMTI modifications
+	- Add MISB903.6 support 
+
 ### Ver. 2.0.5 (19/05/24)
 - low level 
 	- Complete support for pull demux with MPEG-PROGRAM input
