@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.2.8 (10/04/25)
+- Low level Ver. 1.7.11 (9/4/25)
+	- Fix exception on decoding stop 
+
 ### Ver. 2.2.5 (24/02/25)
 - low level Ver. 1.7.9 (23/2/25)
 	- Added API for enable/disable transport discontinuity events (default is ignore discontinuity)
