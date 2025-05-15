@@ -21,9 +21,9 @@ Unzip the **SetupKlvStreamInjector.zip** file and run the **SetupKlvStreamInject
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG KlvStreamInjector** |  v2.2.8 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
+| **STANAG KlvStreamInjector** |  v2.2.12 | [SetupKlvStreamInjector.zip](https://github.com/impleotv/klv-stream-injector-release/releases/latest/download/SetupKlvStreamInjector.zip) | 
 
-*Released on Thu, 10 Apr, 07:23 GMT+3*
+*Released on Thu, 15 May, 17:31 GMT+3*
 
 ## License
 
@@ -38,7 +38,10 @@ C:\Program Files\ImpleoTV\KlvStreamInjector\Bin\x64\KlvStreamInjectorProc.exe
 
 ![NodeInfo string](images/license.png)
 
-Please copy-paste *Node Info*, don't send an image...
+Copy and paste the Node Info string into the online form, or email it to support@impleotv.com.
+If your computer is offline or you're unable to copy the Node Info text, take a photo of the window with the QR code clearly visible and send it to us instead.
+
+![NodeInfo QR](images/licenseQR.png)
 
 You'll receive a license file (or both a license file and a key for legacy licensing mechanism) that can be passed as arguments:
 

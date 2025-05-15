@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.2.12 (14/05/25)
+- MISB 601. Add tag 140 (WeaponsStores)
+- Add QR code for nodeinfo in demo app
+
 ### Ver. 2.2.8 (10/04/25)
 - Low level Ver. 1.7.11 (9/4/25)
 	- Fix exception on decoding stop 
