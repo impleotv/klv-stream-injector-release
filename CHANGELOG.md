@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 2.3.1 (07/09/25)
+- Fix inconsistent node info report
+- Modify console colors
+
 ### Ver. 2.3.0 (31/08/25)
  Low level Ver. 1.7.22 (31/8/25)
 - Add support for MPEG TS Demux with AV1
