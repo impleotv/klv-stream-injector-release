@@ -1,6 +1,17 @@
 Change Log
 ==========
 
+### Ver. 2.3.3 (24/11/25)
+- Fix nodeinfo code printout
+- Low level
+	- Rebuild
+
+### Ver. 2.3.2 (03/11/25)
+- Low level
+	- Add D3dVideoRenderer.ini
+		[Quality]
+		disabledStretchingIterpolation=1
+
 ### Ver. 2.3.1 (07/09/25)
 - Fix inconsistent node info report
 - Modify console colors
