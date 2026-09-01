@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+### Ver. 2.4.0 (30/08/26)
+	- Low level Ver. 1.7.38 (27/7/26)
+	- Update ffmpeg to 8.1.2.
+	- Fix some misbcore MISB903 issues
+	- Add more tags in MISB903
+
 ### Ver. 2.3.6 (01/03/26)
 - Sign StCore 
 - Low level Ver. 1.7.27 (7/1/26)
